@@ -1,3 +1,3 @@
-module github.com/tbruyelle/modtest/submod/v2
+module github.com/tbruyelle/modtest/submod/v3
 
 go 1.19

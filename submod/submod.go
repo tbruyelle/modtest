@@ -3,5 +3,5 @@ package submod
 import "fmt"
 
 func Bye() {
-	fmt.Println("Bye all")
+	fmt.Println("Bye all!")
 }
